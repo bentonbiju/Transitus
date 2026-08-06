@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="19a39836-0d4d-4f1b-9716-279fff534302" />
+  <Project Path="Transitus/Transitus.vcxproj" Id="ba8086c9-f75c-4a9d-a9bf-72fa0eebea25" />
+</Solution>
